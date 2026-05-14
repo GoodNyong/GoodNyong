@@ -97,7 +97,12 @@
 <p>
   <img src="https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot%203.5-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/MSA-1f6feb?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-8A2BE2?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebAuthn%2FFIDO2-4285F4?style=flat-square&logo=fido&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resilience4j-005571?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
@@ -114,7 +119,10 @@
 <p>
   <img src="https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot%203.5.6-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA%20%2B%20QueryDSL-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -122,19 +130,21 @@
 
 ---
 
-### [📦 one-for-logis](https://github.com/GoodNyong/one-for-logis) <sub>· 2024.11 · Smart Logistics</sub>
-> **전국 17개 허브 기반 B2B 통합 물류 시스템 (MSA 9 services)**
-- 🧭 **Dijkstra 기반 최단 경로 계산** + **Redis 3단계 캐싱**
-- 🔔 Kafka 이벤트 + **AI(Gemini API)** 출발시한 계산, Slack 실시간 알림
-- 🧰 Spring Cloud(Eureka/Gateway/Feign), Zipkin 분산 추적, 4단계 RBAC(MASTER/HUB/DELIVERY/COMPANY)
+### [📦 one-for-logis](https://github.com/GoodNyong/one-for-logis) <sub>· 2025.10 ~ 11 · Smart Logistics</sub>
+> **MSA 기반 B2B 통합 물류 플랫폼 (9 services)** — 담당: **Notification Service (Slack · Gemini AI)**
+- 🤖 **Gemini API 자연어 분석**으로 도착 기한·허브 정보 기반 **최적 출발시한 자동 산출**
+- 🔔 **Kafka 이벤트 기반 알림** (주문 생성 / 배송 상태 변경 구독) — 멱등성 보장
+- 🛡 **Resilience4j Circuit Breaker + FeignClient Fallback**으로 외부 API 장애 격리
 <p>
   <img src="https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot%203.3-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zipkin-FF6B6B?style=flat-square&logo=zipkin&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resilience4j-005571?style=flat-square&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -149,6 +159,8 @@
   <img src="https://img.shields.io/badge/Spring%205.3-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-AC1917?style=flat-square" />
+  <img src="https://img.shields.io/badge/SLF4j%20%2F%20Logback-0095D5?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Quartz%20Scheduler-FF6F00?style=flat-square&logo=quarkus&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
 </p>
@@ -164,7 +176,10 @@
   <img src="https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-F8DC75?style=flat-square&logo=jsp&logoColor=black" />
   <img src="https://img.shields.io/badge/Tomcat%209-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL%208-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube%20API-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naver%20API-03C75A?style=flat-square&logo=naver&logoColor=white" />
 </p>
 
 ---
