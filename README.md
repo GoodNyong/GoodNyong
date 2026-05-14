@@ -198,7 +198,7 @@
 
 <p align="center">
   <a href="https://github.com/GoodNyong">
-    <img src="https://streak-stats.demolab.com?user=GoodNyong&theme=dark&hide_border=true&date_format=Y.%20n.%20j" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=GoodNyong&theme=github-dark&hide_border=true&date_format=Y.%20n.%20j" alt="GitHub Streak" />
   </a>
 </p>
 
