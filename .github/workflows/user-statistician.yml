@@ -1,0 +1,27 @@
+name: user-statistician
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          commit-message: "chore: update user-stats SVG"
+          colors: tokyo-night
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -187,23 +187,14 @@
 ## 📊 GitHub Stats <sub>(활동 통계)</sub>
 
 <p align="center">
-  <a href="https://github.com/GoodNyong">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=GoodNyong&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  </a>
-  <a href="https://github.com/GoodNyong">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoodNyong&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top langs" />
+  <a href="https://github.com/cicirello/user-statistician">
+    <img src="./images/userstats.svg" alt="GoodNyong's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/GoodNyong">
-    <img src="https://streak-stats.demolab.com?user=GoodNyong&theme=tokyonight&hide_border=true" alt="streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GoodNyong">
-    <img src="https://github-profile-trophy.vercel.app/?username=GoodNyong&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophy" />
+    <img src="https://streak-stats.demolab.com?user=GoodNyong&theme=tokyo-night&hide_border=true&date_format=Y.%20n.%20j" alt="GitHub Streak" />
   </a>
 </p>
 
