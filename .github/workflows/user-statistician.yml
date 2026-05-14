@@ -22,6 +22,8 @@ jobs:
         uses: cicirello/user-statistician@v1
         with:
           commit-message: "chore: update user-stats SVG"
-          colors: tokyo-night
+          colors: dark
+          category-order: repositories, contributions, languages
+          custom-title: "박근용's Github Activity"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

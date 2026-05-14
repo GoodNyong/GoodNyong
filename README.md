@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/QueryDSL-0078D4?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/MyBatis-AC1917?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzcuNiAyIDQgNS42IDQgMTBjMCAxLjEuMiAyLjIuNiAzLjJDMi43IDE0IDEuNSAxNS40IDEuNSAxN2MwIDEgLjUgMS44IDEuMiAyLjRsLS41IDEuM2MtLjEuNC4yLjguNi44LjEgMCAuMyAwIC40LS4xTDQuNiAyMGMuNi4yIDEuMy4zIDIgLjMuMyAwIC41IDAgLjgtLjEuOCAxLjEgMi4xIDEuOCAzLjYgMS44IDIgMCAzLjgtMS4yIDQuNS0zIC4zLS43LjUtMS41LjUtMi4zIDQtMS4xIDctNC44IDctOS4yIDAtMy0yLjEtNS41LTUtNS41em0tMSA0LjVjLjggMCAxLjUuNyAxLjUgMS41UzExLjggOS41IDExIDkuNSA5LjUgOC44IDkuNSA4IDEwLjIgNi41IDExIDYuNXptLTMgN2gxMGMuMyAwIC41LjIuNS41IDAgMS40LTEuMSAyLjUtMi41IDIuNWgtNUM5LjYgMTYuNSA4LjUgMTUuNCA4LjUgMTRjMC0uMy4yLS41LjUtLjV6Ii8+PC9zdmc+&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/MyBatis-AC1917?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=1a1b27" />
 </p>
 
 ### 🧬 MSA · Messaging · Resilience
@@ -162,7 +162,7 @@
   <img src="https://img.shields.io/badge/Java%2011-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Spring%205.3-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/MyBatis-AC1917?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzcuNiAyIDQgNS42IDQgMTBjMCAxLjEuMiAyLjIuNiAzLjJDMi43IDE0IDEuNSAxNS40IDEuNSAxN2MwIDEgLjUgMS44IDEuMiAyLjRsLS41IDEuM2MtLjEuNC4yLjguNi44LjEgMCAuMyAwIC40LS4xTDQuNiAyMGMuNi4yIDEuMy4zIDIgLjMuMyAwIC41IDAgLjgtLjEuOCAxLjEgMi4xIDEuOCAzLjYgMS44IDIgMCAzLjgtMS4yIDQuNS0zIC4zLS43LjUtMS41LjUtMi4zIDQtMS4xIDctNC44IDctOS4yIDAtMy0yLjEtNS41LTUtNS41em0tMSA0LjVjLjggMCAxLjUuNyAxLjUgMS41UzExLjggOS41IDExIDkuNSA5LjUgOC44IDkuNSA4IDEwLjIgNi41IDExIDYuNXptLTMgN2gxMGMuMyAwIC41LjIuNS41IDAgMS40LTEuMSAyLjUtMi41IDIuNWgtNUM5LjYgMTYuNSA4LjUgMTUuNCA4LjUgMTRjMC0uMy4yLS41LjUtLjV6Ii8+PC9zdmc+&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/MyBatis-AC1917?style=flat-square&logo=apachemaven&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/SLF4j%20%2F%20Logback-0095D5?style=flat-square&logo=apachespark&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/Quartz%20Scheduler-FF6F00?style=flat-square&logo=quarkus&logoColor=white&labelColor=1a1b27" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27" />
