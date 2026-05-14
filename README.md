@@ -89,7 +89,7 @@
 
 ## 💼 Projects <sub>(주요 프로젝트)</sub>
 
-### 🛍 high-tension <sub>· 2025.11 ~ 12 · C2C Commerce</sub>
+### [🛍 high-tension](https://github.com/GoodNyong/high-tension) <sub>· 2025.11 ~ 12 · C2C Commerce</sub>
 > **C2C 온라인 쇼핑 플랫폼 (MSA · Saga/Outbox 기반)** — 담당: **User Service, API Gateway**
 - 🔑 JWT(Access 1h + Refresh 7d) + **WebAuthn/Passkey(FIDO2)**, Refresh Token Rotation, Redis 블랙리스트
 - 🚪 Gateway: **Token Bucket Rate Limiting (Redis Lua, 원자성 보장)**, **Resilience4j Circuit Breaker**, Eureka 라우팅, Slowloris 방어
@@ -106,7 +106,7 @@
 
 ---
 
-### 🍽 mealhub <sub>· 2025.09 ~ 10 · Food Delivery</sub>
+### [🍽 mealhub](https://github.com/GoodNyong/mealhub) <sub>· 2025.09 ~ 10 · Food Delivery</sub>
 > **음식 주문 플랫폼** — 담당: **Order Domain**
 - 📦 주문 상태 머신: `PENDING → IN_PROGRESS → OUT_FOR_DELIVERY → DELIVERED` 전이 규칙 검증, 변경 이력 로깅
 - 🛡 권한 기반 접근 — 고객/사장님/관리자에 따라 조회 범위 분리
@@ -122,7 +122,7 @@
 
 ---
 
-### 📦 one-for-logis <sub>· 2024.11 · Smart Logistics</sub>
+### [📦 one-for-logis](https://github.com/GoodNyong/one-for-logis) <sub>· 2024.11 · Smart Logistics</sub>
 > **전국 17개 허브 기반 B2B 통합 물류 시스템 (MSA 9 services)**
 - 🧭 **Dijkstra 기반 최단 경로 계산** + **Redis 3단계 캐싱**
 - 🔔 Kafka 이벤트 + **AI(Gemini API)** 출발시한 계산, Slack 실시간 알림
@@ -139,7 +139,7 @@
 
 ---
 
-### 🏃 Blinkos <sub>· Health Management</sub>
+### [🏃 Blinkos](https://github.com/GoodNyong/Blinkos) <sub>· Health Management</sub>
 > **건강 관리 웹 애플리케이션** — 회원·건강 기록·커뮤니티·관리자
 - 🛡 Spring Security 4.2 기반 인증/인가, 이메일 인증 + reCAPTCHA, 비밀번호 정책
 - 🧹 **레거시 코드 품질 개선** — SLF4j 전환(29개소), try-with-resources, StringBuilder, 중복 제거
@@ -155,7 +155,7 @@
 
 ---
 
-### 🔥 Campfire <sub>· Game Community</sub>
+### [🔥 Campfire](https://github.com/GoodNyong/Campfire) <sub>· Game Community</sub>
 > **JSP/Servlet 기반 게임 커뮤니티 웹 애플리케이션**
 - 📰 **YouTube · Naver News API** 주기적 수집(스케줄러)으로 메인 콘텐츠 큐레이션
 - 📋 게시판/댓글 CRUD, 리뷰·게임 관리, 회원/관리자 페이지
