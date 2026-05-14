@@ -25,5 +25,6 @@ jobs:
           colors: dark
           category-order: repositories, contributions, languages
           custom-title: "박근용's Github Activity"
+          show-border: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
