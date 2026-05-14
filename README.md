@@ -20,7 +20,7 @@
 
 ---
 
-## 🙋‍♂️ About Me <sub>(소개)</sub>
+## 🙋‍♂️ About Me
 
 > **서비스의 구조를 이해하고, 필요한 기능을 끝까지 구현하는 백엔드 개발자입니다.**
 
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠 Tech Stack <sub>(기술 스택)</sub>
+## 🛠 Tech Stack
 
 <!-- All badges share labelColor=1a1b27 (tokyo-night bg) for unified palette -->
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 💼 Projects <sub>(주요 프로젝트)</sub>
+## 💼 Projects
 
 ### [🛍 high-tension](https://github.com/GoodNyong/high-tension) <sub>· 2025.11 ~ 12 · C2C Commerce</sub>
 > **C2C 온라인 쇼핑 플랫폼 (MSA · Saga/Outbox 기반)** — 담당: **User Service, API Gateway**
@@ -188,7 +188,7 @@
 
 ---
 
-## 📊 GitHub Stats <sub>(활동 통계)</sub>
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/cicirello/user-statistician">
@@ -212,7 +212,7 @@
 
 ---
 
-## 📫 Contact <sub>(연락처)</sub>
+## 📫 Contact
 
 <p align="center">
   <a href="https://github.com/GoodNyong"><img src="https://img.shields.io/badge/GitHub-c0caf5?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=1a1b27" alt="github" /></a>
