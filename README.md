@@ -115,25 +115,6 @@
 
 ---
 
-### [🍽 mealhub](https://github.com/GoodNyong/mealhub) <sub>· 2025.09 ~ 10 · Food Delivery</sub>
-> **음식 주문 플랫폼** — 담당: **Order Domain**
-- 📦 주문 상태 머신: `PENDING → IN_PROGRESS → OUT_FOR_DELIVERY → DELIVERED` 전이 규칙 검증, 변경 이력 로깅
-- 🛡 권한 기반 접근 — 고객/사장님/관리자에 따라 조회 범위 분리
-- 🧾 Soft Delete, 가격 재계산 검증, 페이징/정렬 안정성 보장
-<p>
-  <img src="https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%203.5.6-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/JPA%20%2B%20QueryDSL-59666C?style=flat-square&logo=hibernate&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1a1b27" />
-</p>
-
----
-
 ### [📦 one-for-logis](https://github.com/GoodNyong/one-for-logis) <sub>· 2025.10 ~ 11 · Smart Logistics</sub>
 > **MSA 기반 B2B 통합 물류 플랫폼 (9 services)** — 담당: **Notification Service (Slack · Gemini AI)**
 - 🤖 **Gemini API 자연어 분석**으로 도착 기한·허브 정보 기반 **최적 출발시한 자동 산출**
@@ -153,6 +134,24 @@
 
 ---
 
+### [🍽 mealhub](https://github.com/GoodNyong/mealhub) <sub>· 2025.09 ~ 10 · Food Delivery</sub>
+> **음식 주문 플랫폼** — 담당: **Order Domain**
+- 📦 주문 상태 머신: `PENDING → IN_PROGRESS → OUT_FOR_DELIVERY → DELIVERED` 전이 규칙 검증, 변경 이력 로깅
+- 🛡 권한 기반 접근 — 고객/사장님/관리자에 따라 조회 범위 분리
+- 🧾 Soft Delete, 가격 재계산 검증, 페이징/정렬 안정성 보장
+<p>
+  <img src="https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Spring%20Boot%203.5.6-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/JPA%20%2B%20QueryDSL-59666C?style=flat-square&logo=hibernate&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white&labelColor=1a1b27" />
+</p>
+
+---
 ### [🏃 Blinkos](https://github.com/GoodNyong/Blinkos) <sub>· Health Management</sub>
 > **건강 관리 웹 애플리케이션** — 회원·건강 기록·커뮤니티·관리자
 - 🛡 Spring Security 4.2 기반 인증/인가, 이메일 인증 + reCAPTCHA, 비밀번호 정책
